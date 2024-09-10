@@ -12,3 +12,18 @@
 coletar os dados 
 processar os dados  (manupular, alterar...)
 acresentar os dados
+
+## escopo e variáveis:
+
+variáveis globais e locais 
+constantes 
+
+## tipos de dados 
+
+strings (textos); "" '' ``
+number: 2 1.
+function
+
+## operadores 
+
+operadores de atribuição de valor 
