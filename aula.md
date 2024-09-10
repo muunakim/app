@@ -15,15 +15,35 @@ acresentar os dados
 
 ## escopo e variáveis:
 
-variáveis globais e locais 
-constantes 
+- [x] variáveis globais e locais 
+- [x] constantes 
 
 ## tipos de dados 
 
-strings (textos); "" '' ``
-number: 2 1.
-function
+- [x] strings (textos); "" '' ``
+- [x] number: 2 1.
+- [x] function
+- [x] boolean: true, false
 
 ## operadores 
 
-operadores de atribuição de valor 
+- [x] operadores de atribuição de valor 
+- [x] operador de concatenação 
+
+## estruturas de dadoos
+
+### arrays
+
+- [x] uma list que contém qualquer tipo de dado
+
+### objetos
+
+- [x] atributos e métodos
+- [x] criação e manipulação de objetos 
+- [x] acesso a propriedades de objetos
+
+## functions 
+
+- [x] criar, passar argumeto 
+- [x] executar 
+- [x] arrow function / named function 
