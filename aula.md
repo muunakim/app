@@ -58,3 +58,12 @@ acresentar os dados
 
 ## condicionais
 - [x] switch
+
+## modulos em node.js
+
+- [x] importação de módulos (require, CommonJS)
+- [x] biblioteca 'inquirer' para criar prompts interativos
+
+## programação assíncrona e promises:
+
+- [x] uso de funções assíncronas (async/await) 
