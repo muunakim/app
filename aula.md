@@ -1,7 +1,7 @@
 ## peças de uma linguagem 
 
 - comentarios 
-- declaração de variáveis
+- declaração de variáveis (const, let)
 - operadores (atribuição, concatenação, matemáticos, lógicos)
 - tipos de dados (string, number, array)
 - controle de fluxo (if/else)
@@ -28,8 +28,9 @@ acresentar os dados
 
 ## operadores 
 
-- [x] operadores de atribuição de valor 
-- [x] operador de concatenação 
+- [x] operadores de atribuição de valor: =
+- [x] operador de concatenação: +
+- [x] operadores de comparação: == , != , < > , <= , >=
 
 ## estruturas de dados
 
@@ -58,6 +59,7 @@ acresentar os dados
 
 ## condicionais
 - [x] switch
+- [x] if/else
 
 ## modulos em node.js
 
