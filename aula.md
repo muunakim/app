@@ -16,7 +16,8 @@ acresentar os dados
 ## escopo e variáveis:
 
 - [x] variáveis globais e locais 
-- [x] constantes 
+- [x] constantes
+- [x] let: variavel de controle  
 
 ## tipos de dados 
 
@@ -30,7 +31,7 @@ acresentar os dados
 - [x] operadores de atribuição de valor 
 - [x] operador de concatenação 
 
-## estruturas de dadoos
+## estruturas de dados
 
 ### arrays
 
@@ -46,4 +47,11 @@ acresentar os dados
 
 - [x] criar, passar argumeto 
 - [x] executar 
-- [x] arrow function / named function 
+- [x] arrow function / named function
+- [x] return: dentro de qualquer função ele para a execução 
+
+## aula 2
+
+## estrutura de repetição
+
+- [x] while: é uma estrutura de repetição 
