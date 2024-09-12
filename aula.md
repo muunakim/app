@@ -55,3 +55,6 @@ acresentar os dados
 ## estrutura de repetição
 
 - [x] while: é uma estrutura de repetição 
+
+## condicionais
+- [x] switch
