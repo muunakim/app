@@ -67,6 +67,14 @@ acresentar os dados
 
 - [x] importação de módulos (require, CommonJS)
 - [x] biblioteca 'inquirer' para criar prompts interativos
+- [x] FS (file system)
+
+## JSON 
+
+- [x] JavaScript Object Natation (.json)
+- [x] JSON.parse() : transforma de JSON para JS
+- [x] JSON.stringify() : transforma de JS para JSON
+
 
 ## programação assíncrona e promises:
 
