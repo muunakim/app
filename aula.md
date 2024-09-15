@@ -38,7 +38,7 @@ acresentar os dados
 ### arrays
 
 - [x] uma lista que contém qualquer tipo de dado
-- [x] métodos de arrays: push, find, forEach
+- [x] métodos de arrays: push, find, forEach, map : HOF (Higher Order Functions)
 
 ### objetos
 
