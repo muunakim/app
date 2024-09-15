@@ -31,12 +31,14 @@ acresentar os dados
 - [x] operadores de atribuição de valor: =
 - [x] operador de concatenação: +
 - [x] operadores de comparação: == , != , < > , <= , >=
+- [x] spread operator: ...
 
 ## estruturas de dados
 
 ### arrays
 
-- [x] uma list que contém qualquer tipo de dado
+- [x] uma lista que contém qualquer tipo de dado
+- [x] métodos de arrays: push, find, forEach
 
 ### objetos
 
